@@ -1,0 +1,12 @@
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\bin\Debug\net5.0\ViSortCommon.deps.json
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\bin\Debug\net5.0\ViSortCommon.dll
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\bin\Debug\net5.0\ref\ViSortCommon.dll
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\bin\Debug\net5.0\ViSortCommon.pdb
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\obj\Debug\net5.0\ViSortCommon.csprojAssemblyReference.cache
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\obj\Debug\net5.0\ViSortCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\obj\Debug\net5.0\ViSortCommon.AssemblyInfoInputs.cache
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\obj\Debug\net5.0\ViSortCommon.AssemblyInfo.cs
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\obj\Debug\net5.0\ViSortCommon.csproj.CoreCompileInputs.cache
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\obj\Debug\net5.0\ViSortCommon.dll
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\obj\Debug\net5.0\ref\ViSortCommon.dll
+C:\Users\matej\Desktop\ViSortSol\ViSortCommon\obj\Debug\net5.0\ViSortCommon.pdb

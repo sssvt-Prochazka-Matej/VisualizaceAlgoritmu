@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ViSortUI/1.0.0": {
+        "dependencies": {
+          "ViSortCommon": "1.0.0",
+          "ViSortGDI": "1.0.0",
+          "ViSortLogic": "1.0.0"
+        },
+        "runtime": {
+          "ViSortUI.dll": {}
+        }
+      },
+      "ViSortCommon/1.0.0": {
+        "runtime": {
+          "ViSortCommon.dll": {}
+        }
+      },
+      "ViSortGDI/1.0.0": {
+        "dependencies": {
+          "ViSortCommon": "1.0.0"
+        },
+        "runtime": {
+          "ViSortGDI.dll": {}
+        }
+      },
+      "ViSortLogic/1.0.0": {
+        "dependencies": {
+          "ViSortCommon": "1.0.0"
+        },
+        "runtime": {
+          "ViSortLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViSortUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViSortCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViSortGDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViSortLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
